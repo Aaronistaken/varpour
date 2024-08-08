@@ -7,7 +7,7 @@ html, body {
 
 
 .background {
-    background-image: url('Background.jpg'); /* Replace with your image path */
+    background-image: url('/Users/aaronbunnchaihansen/Documents/Varpour.github.io/Background.jpg'); /* Replace with your image path */
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -32,5 +32,8 @@ html, body {
 .content p {
     line-height: 1.6;
 }
+
+
+
 
 
